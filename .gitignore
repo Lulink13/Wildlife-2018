@@ -12,7 +12,9 @@
 
 # Build conf file & results
 build.xml
-/build/
+built-jar.properties
+/build/*
+
 # Class Files #
 *.class
 # Package Files #
