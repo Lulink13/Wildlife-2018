@@ -1,0 +1,51 @@
+## Ignore temporary files, build results, etc...
+## 
+##
+## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
+
+
+# User-specific files
+#*.suo
+#*.user
+#*.userosscache
+
+
+# Build conf file & results
+build.xml
+/build/
+# Class Files #
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+# Database conception files
+/SQL/*.xlsx
+
+
+# Visual Studio Code cache/options directory
+.vscode/
+
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+
+# NetBeans project files
+/nbproject/
+
+
+# Test test Results
+
+
+# JUNIT Files
+
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+/dist/
