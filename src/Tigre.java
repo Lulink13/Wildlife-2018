@@ -4,7 +4,7 @@
  * inherits Carnivor, Animal
  * le test a marché!
  */
-package wildlife;
+
 
 /**
  *

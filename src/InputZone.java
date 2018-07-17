@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package wildlife;
+
 
 import java.awt.Event;
 import java.awt.event.KeyEvent;
