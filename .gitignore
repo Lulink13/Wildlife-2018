@@ -12,6 +12,7 @@
 
 # Class Files #
 *.class
+
 # Package Files #
 *.jar
 *.war
@@ -21,7 +22,7 @@
 *.tar.gz
 *.rar
 
-# Log file
+# Log files
 *.log
 
 
@@ -51,7 +52,15 @@ build/
 nbbuild/
 dist/
 nbdist/
-.nb-gradle/
+.nb-gradle/*
+
+
+# Visual Studio Code SPECIFIC
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
 
 # Test test Results
