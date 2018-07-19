@@ -42,7 +42,20 @@ hs_err_pid*
 #wwwroot/
 
 
-# NetBeans SPECIFIC
+##### Maven SPECIFIC
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+
+##### NetBeans SPECIFIC
 
 build.xml
 built-jar.properties
@@ -55,7 +68,7 @@ nbdist/
 .nb-gradle/*
 
 
-# Visual Studio Code SPECIFIC
+##### Visual Studio Code SPECIFIC
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -69,7 +82,7 @@ nbdist/
 # JUNIT Files
 
 
-# SQL Server SPECIFIC
+##### SQL Server SPECIFIC
 *.mdf
 *.ldf
 *.ndf
